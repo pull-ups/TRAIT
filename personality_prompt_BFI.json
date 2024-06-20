@@ -1,0 +1,279 @@
+{
+  "behavior": {
+    "extraversion": {
+      "high": [
+        "Being talkative.",
+        "Not being reserved.",
+        "Being full of energy.",
+        "Not tending to be quiet.",
+        "Generating a lot of enthusiasm.",
+        "Having an assertive personality.",
+        "Never being shy or inhibited.",
+        "Being outgoing and sociable."
+      ],
+      "low": [
+        "Not being talkative.",
+        "Being reserved.",
+        "Not being full of energy.",
+        "Tending to be quiet.",
+        "Not generating a lot of enthusiasm.",
+        "Not having an assertive personality.",
+        "Sometimes being shy and inhibited.",
+        "Not being outgoing or sociable."
+      ]
+    },
+    "neuroticism": {
+      "high": [
+        "Being depressed and blue.",
+        "Not being relaxed; not handling stress well.",
+        "Being tense.",
+        "Worrying a lot.",
+        "Being emotionally unstable and easily upset.",
+        "Being moody.",
+        "Not remaining calm in tense situations.",
+        "Getting nervous easily."
+      ],
+      "low": [
+        "Not being depressed; being happy.",
+        "Being relaxed and handling stress well.",
+        "Not being tense.",
+        "Not worrying a lot.",
+        "Being emotionally stable and not easily upset.",
+        "Not being moody.",
+        "Remaining calm in tense situations.",
+        "Not getting nervous easily."
+      ]
+    },
+    "agreeableness": {
+      "high": [
+        "Not tending to find fault with others.",
+        "Being helpful and unselfish with others.",
+        "Not starting quarrels with others.",
+        "Having a forgiving nature.",
+        "Being generally trusting.",
+        "Not being cold and aloof.",
+        "Never being rude to others.",
+        "Being considerate and kind to almost everyone.",
+        "Liking to cooperate with others."
+      ],
+      "low": [
+        "Tending to find fault with others.",
+        "Not being helpful; being selfish with others.",
+        "Not having a forgiving nature.",
+        "Being generally not trusting.",
+        "Starting quarrels with others.",
+        "Not being considerate and kind to almost everyone.",
+        "Being cold and aloof.",
+        "Sometimes being rude to others.",
+        "Not liking to cooperate with others."
+      ]
+    },
+    "conscientiousness": {
+      "high": [
+        "Doing a thorough job.",
+        "Not being somewhat careless.",
+        "Being a reliable worker.",
+        "Tending to be organized.",
+        "Not tending to be lazy.",
+        "Persevering until the task is finished.",
+        "Doing things efficiently.",
+        "Not being easily distracted.",
+        "Making plans and following through with them."
+      ],
+      "low": [
+        "Not doing a thorough job.",
+        "Being somewhat careless.",
+        "Not being a reliable worker.",
+        "Tending to be disorganized.",
+        "Not persevering until the task is finished.",
+        "Tending to be lazy.",
+        "Not doing things efficiently.",
+        "Being easily distracted.",
+        "Not making plans and following through with them."
+      ]
+    },
+    "openness": {
+      "high": [
+        "Being original and coming up with new ideas.",
+        "Being curious about many different things.",
+        "Being ingenious and a deep thinker.",
+        "Having an active imagination.",
+        "Being inventive.",
+        "Valuing artistic and aesthetic experiences.",
+        "Liking to reflect and play with ideas.",
+        "Being sophisticated in art, music, or literature.",
+        "Not preferring work that is routine.",
+        "Having many artistic interests."
+      ],
+      "low": [
+        "Not being original; not coming up with new ideas.",
+        "Not being curious about many different things.",
+        "Not being ingenious; not being a deep thinker.",
+        "Not having an active imagination.",
+        "Not being inventive.",
+        "Not valuing artistic or aesthetic experiences.",
+        "Not liking to reflect or play with ideas.",
+        "Not being sophisticated in art, music, or literature.",
+        "Preferring work that is routine.",
+        "Having few artistic interests."
+      ]
+    },
+    "psychopathy": {
+      "high": [
+        "Liking to get revenge on authorities.",
+        "Seeking out dangerous situations.",
+        "Needing payback to be quick and nasty.",
+        "Often being said to be out of control.",
+        "Being mean to others.",
+        "Making those who mess with regret it.",
+        "Getting into trouble with the law.",
+        "Enjoying having sex with people hardly known.",
+        "Saying anything to get what is wanted."
+      ],
+      "low": [
+        "Never thinking to get revenge with authorities.",
+        "Payback needing to be gradual and fair.",
+        "Often being said to be in control.",
+        "Being mean to others being false.",
+        "Making those who mess with not regret it.",
+        "Not having sex with people hardly known.",
+        "Avoiding dangerous situations.",
+        "Never getting into trouble with the law.",
+        "Considering the consequences before saying anything"
+      ]
+    },
+    "narcissism": {
+      "high": [
+        "Being seen as a natural leader.",
+        "Loving being the center of attention.",
+        "Many group activities tending to be dull without presence.",
+        "Knowing of being special because everyone keeps saying so.",
+        "Liking to get acquainted with important people.",
+        "Feeling flattered when complimented.",
+        "Being compared to famous people.",
+        "Being an extraordinary person.",
+        "Insisting on getting the respect deserved."
+      ],
+      "low": [
+        "Being seen as an ineffective leader.",
+        "Hating being the center of attention.",
+        "Group activities being exciting even without presence.",
+        "Feeling embarrassed when complimented.",
+        "Knowing of not being special because everyone keeps saying so.",
+        "Disliking getting acquainted with important people.",
+        "Never being compared to famous people.",
+        "Not insisting on getting the respect deserved.",
+        "Being an average person."
+      ]
+    },
+    "machiavellianism": {
+      "high": [
+        "Not being wise to tell your secrets.",
+        "Liking to use clever manipulation to get one's way.",
+        "Needing to get the important people on one's side, whatever it takes.",
+        "Avoiding direct conflict with others because they may be useful in the future.",
+        "Being wise to keep track of information that can be used against people later.",
+        "Waiting for the right time to get back at people.",
+        "Hiding things from other people to preserve one's reputation.",
+        "Making sure plans benefit oneself, not others.",
+        "Being able to manipulate most people."
+      ],
+      "low": [
+        "Being wise to share your secrets.",
+        "Disliking using clever manipulation to get one's way.",
+        "Not always essential to get important people on one's side.",
+        "Fighting when one has to, even if it's the next person seen.",
+        "Not being helpful to keep track of information that can be used against people later.",
+        "Not being essential to wait for the right time to get back at people.",
+        "No things being necessary to hide from other people to preserve one's reputation.",
+        "Making sure plans benefit others, not just oneself.",
+        "Most people not being able to be manipulated."
+      ]
+    }
+  },
+  "linguistic": {
+    "Extraversion": {
+      "high": [
+        "Higher correlation with oral language, especially in complex tasks.",
+        "Talks more, louder, and more repetitively; fewer pauses and hesitations; higher speech rates; shorter silences; higher verbal output; less formal language; uses more positive emotion words; shows more agreements and compliments.",
+        "Significantly correlated with contextuality; high reliance on shared knowledge, use of many deictic expressions. ",
+        "The use of the following words appears more prominently in speech: 1st pers plural(We, us, our), Social processes(Mate, talk, they, child), Friends(Buddy, friend), Affective processes(Happy, cried, abandon), Positive emotion(Love, nice, sweet), Sexual(Horny, love, incest), Assent(Agree, OK, yes), Nonfluencies(Er, hm, umm), Exclam(!), OtherP(@ #)"
+      ],
+      "low": [
+        "Uses a broader vocabulary. ",
+        "The use of the following words appears more prominently in speech: 1st pers singular(I, me, mine), Conjunctions(And, but, whereas), Negations(No, not, never), Negative emotion(Hurt, ugly, nasty), Anxiety(Worried, fearful), Anger(Hate, kill, annoyed), Sadness(Crying, grief, sad), Insight(think, know, consider), Tentative(maybe, perhaps, guess), Exclusive(But, without, exclude)"
+      ]
+    },
+    "Neuroticism": {
+      "high": [
+        "Uses more 1st person singular pronouns, more negative emotion words, and less positive emotion words.",
+        "Uses more concrete and frequent words. ",
+      "The use of the following words appears more prominently in speech: Numbers(Second, thousand), OtherP(@ #)"
+      ],
+      "low": [
+      "The use of the following words appears more prominently in speech: Conjunctions(And, but, whereas), Swear words(Damn, piss, fuck), Social processes(Mate, talk, they, child), Affective processes(Happy, cried, abandon), Positive emotion(Love, nice, sweet), Negative emotion(Hurt, ugly, nasty), Anxiety(Worried, fearful), Anger(Hate, kill, annoyed), Sadness(Crying, grief, sad), Cognitive processes(cause, know, ought), Insight(think, know, consider)"
+      ]
+    },
+    "Agreeableness": {
+      "high": [
+        "Expresses more positive and fewer negative emotions; uses fewer articles.",
+        "Speech rate has an inverted-U relationship with benevolence, suggesting complexity in verbal cues.",
+      "The use of the following words appears more prominently in speech: Social processes(Mate, talk, they, child), Family(Daughter, husband,), Friends(Buddy, friend), Affective processes(Happy, cried, abandon), Positive emotion(Love, nice, sweet), Perceptual processes(Heard, feeling), See(View, saw, seen), Motion(Arrive, car, go), Total Punctuation(), Exclam(!)"
+      ],
+      "low": [
+        "Swearing marks disagreeableness.",
+      "The use of the following words appears more prominently in speech: 1st pers singular(I, me, mine), Impersonal pronouns(It, it\u2019s, those), Auxiliary verbs(Am, will, have), Adverbs(Very, really, quickly), Conjunctions(And, but, whereas), Negations(No, not, never), Quantifiers(Few, many, much), Numbers(Second, thousand), Swear words(Damn, piss, fuck), Negative emotion(Hurt, ugly, nasty), Anxiety(Worried, fearful), Anger(Hate, kill, annoyed), Sadness(Crying, grief, sad)"
+      ]
+    },
+    "Conscientiousness": {
+      "high": [
+        "Avoids negations, negative emotion words, and words reflecting discrepancies.",
+      "The use of the following words appears more prominently in speech: 1st pers plural(We, us, our), Prepositions(To, with, above), Numbers(Second, thousand), Positive emotion(Love, nice, sweet), Relativity(Area, bend, exit, stop), Motion(Arrive, car, go), Time(End, until, season), Work(Job, majors, Xerox)"
+      ],
+      "low": [
+      "The use of the following words appears more prominently in speech: Adverbs(Very, really, quickly), Negations(No, not, never), Swear words(Damn, piss, fuck)"
+      ]
+    },
+    "Openness": {
+      "high": [
+        "Preference for longer words and words expressing tentativity; avoidance of 1st person singular pronouns and present tense forms.",
+        "The use of words related to insight and the avoidance of past tense indicates openness to experience. ",
+      "The use of the following words appears more prominently in speech: Total Punctuation(), OtherP(@ #)"
+      ],
+      "low": [
+      "The use of the following words appears more prominently in speech: Common verbs(Walk, went, see), Auxiliary verbs(Am, will, have), Past tense(Went, ran, had), Present tense(Is, does, hear), Adverbs(Very, really, quickly), Prepositions(To, with, above), Conjunctions(And, but, whereas), Tentative(maybe, perhaps, guess), See(View, saw, seen), Biological processes(Eat, blood, pain), Body(Cheek, hands, spit), Time(End, until, season), Work(Job, majors, Xerox)"
+      ]
+    },
+    "Psychopathy": {
+      "high": [
+        "often use manipulative speech acts and cause-and-effect statements to influence and control.",
+        "rarely consider others' feelings, showing a preference for impersonal language and a lack of emotional words in conversations.",
+        "frequently distance themselves psychologically from their actions and others, using less first-person language and more third-person references, alongside hedging terms.",
+        "Speech patterns include incoherent discourse, rapid topic shifts, and inconsistent use of language, reflecting a disjointed thought process.",
+      "The use of the following words appears more prominently in speech: Negative emotion(Hurt, ugly, nasty), Anger(Hate, kill, annoyed), Body(Cheek, hands, spit), Sexual(Horny, love, incest), Death(Bury, coffin, kill), Fillers(Blah, Imean, youknow)"
+      ],
+      "low": [
+      "The use of the following words appears more prominently in speech: Common verbs(Walk, went, see), Auxiliary verbs(Am, will, have), Past tense(Went, ran, had), Adverbs(Very, really, quickly), Social processes(Mate, talk, they, child), Family(Daughter, husband,), Affective processes(Happy, cried, abandon), Positive emotion(Love, nice, sweet), Anxiety(Worried, fearful), Sadness(Crying, grief, sad), Cognitive processes(cause, know, ought)"
+      ]
+    },
+    "Narcissism": {
+      "high": [
+        "often focuses on self-presentation, utilizing personal pronouns extensively.",
+        "frequently use swear words, adding an emotional or attitudinal dimension to their speech to assert dominance or provoke.",
+        "lacks depth in sensory and perceptual experiences, often showing a deficiency in describing mental and emotional states.",
+      "The use of the following words appears more prominently in speech: Friends(Buddy, friend), Sexual(Horny, love, incest), Quote(\u201c\u201d), OtherP(@ #)"
+      ],
+      "low": [
+      "The use of the following words appears more prominently in speech: Common verbs(Walk, went, see), Present tense(Is, does, hear), Quantifiers(Few, many, much), Affective processes(Happy, cried, abandon), Positive emotion(Love, nice, sweet), Negative emotion(Hurt, ugly, nasty), Anxiety(Worried, fearful), Sadness(Crying, grief, sad), Discrepancy(should, would, could), Tentative(maybe, perhaps, guess), Perceptual processes(Heard, feeling), See(View, saw, seen), Nonfluencies(Er, hm, umm), Dash(-), Apostro(\u2018)"
+      ]
+    },
+    "Machiavellianism": {
+      "high": [
+        "The use of the following words appears more prominently in speech: Negations(No, not, never), Numbers(Second, thousand), Swear words(Damn, piss, fuck), Negative emotion(Hurt, ugly, nasty), Anger(Hate, kill, annoyed), Fillers(Blah, Imean, youknow)"
+      ],
+      "low": [
+        "The use of the following words appears more prominently in speech: Social processes(Mate, talk, they, child), Family(Daughter, husband,), Affective processes(Happy, cried, abandon), Positive emotion(Love, nice, sweet), Anxiety(Worried, fearful), Sadness(Crying, grief, sad), Insight(think, know, consider), Perceptual processes(Heard, feeling), See(View, saw, seen)"
+      ]
+    }
+  }
+}
